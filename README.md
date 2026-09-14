@@ -1,1 +1,5 @@
-# devops-course-2026
+- ФИО: денис николенко- Группа: ЭФБО-08-24
+- Технологии, которые хочу освоить в этом курсе:
+- 1. Docker
+  2. CI/CD (GitHub Actions)
+  3. Linux (Bash)# devops-course-2026
